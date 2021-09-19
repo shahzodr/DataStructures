@@ -1,2 +1,2 @@
 # DataStructures
-Files I worked with in my Data Structures course.
+The files I worked on in my Data Structures course.
